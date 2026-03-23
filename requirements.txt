@@ -1,0 +1,86 @@
+Super 👍🔥 you are moving perfectly!
+
+Now next file we create is:
+
+# 📦 requirements.txt (VERY IMPORTANT)
+
+This file tells:
+👉 what libraries your project needs
+
+---
+
+## 🟢 STEP: Open requirements.txt
+
+In terminal:
+
+```bash
+nano requirements.txt
+```
+
+---
+
+## 👉 Paste this
+
+```text
+pandas
+```
+
+---
+
+## 👉 Save
+
+Press:
+
+* **Control + O → Enter**
+* **Control + X**
+
+---
+
+# 🎯 DONE
+
+👉 This is enough for your project now ✅
+
+---
+
+# 💡 Why this is important
+
+When someone runs your project:
+
+```bash
+pip install -r requirements.txt
+```
+
+👉 It installs everything automatically 🔥
+
+---
+
+# 🚀 OPTIONAL (better version)
+
+Later we can upgrade:
+
+```text
+pandas
+sqlalchemy
+psycopg2
+```
+
+---
+
+# 🎯 Next step
+
+Now everything ready ✅
+
+👉 Time to upload to GitHub
+
+---
+
+## 👉 Run these commands:
+
+```bash
+git init
+git add .
+git commit -m "Sales ETL pipeline project"
+```
+
+---
+
